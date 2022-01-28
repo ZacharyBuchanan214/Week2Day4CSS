@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    text-align: center;
+    margin: 200px 300px 200px 300px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+header {
+    margin-bottom: 20px;
+    font-weight: 100;
+}
+input[type=text] {
+    padding: 6px 0;
+}
+input[type=submit] {
+    padding: 0 100px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+input[placeholder="First Name"] {
+    padding-left: 5px;
+}
+input[placeholder="Last Name"] {
+    padding-left: 5px;
+}
+input[placeholder="Email"] {
+    padding-left: 5px;
+}
+.first-name {
+    margin-bottom: 10px;
+}
+.last-name {
+    margin-bottom: 10px;
+}
+.email-name {
+    margin-bottom: 25px;
+}
+.submit {
+    padding: 0 20px 0 20px;
+}
